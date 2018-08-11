@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "air" # "default","air" , "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "旅伴的blog"
+title                    : "斯普特尼克"
 title_separator          : "|"
 name                     : "旅伴"
 description              : "web开发，前端技术博客，技术分享"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : sputnikW/sputnikW.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   :   # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 50
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -128,7 +128,7 @@ author:
   tumblr           :
   twitter          : "https://twitter.com/sputnik_wang"
   vine             :
-  weibo            : "https://www.weibo.com/u/5117351191/home"
+  weibo            : "u/5117351191/home"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
@@ -268,8 +268,10 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
       related: true
+      toc: true
+      toc_label: "大纲导读"
+      toc_icon: "book"
   # _pages
   - scope:
       path: ""

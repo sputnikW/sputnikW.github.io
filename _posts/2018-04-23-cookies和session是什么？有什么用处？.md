@@ -1,6 +1,4 @@
 ---
-layout: posts
-category: front_end
 ---
 
 ## 先来说说cookie。  

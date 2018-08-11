@@ -1,7 +1,4 @@
----
-layout: posts
-category: front_end
----
+
 
 关于RESTful架构的解释，在我的另一篇文章[理解RESTful](https://github.com/sputnikW/web-notes/blob/master/%E7%90%86%E8%A7%A3RESTful.md)。  本文行文前,我是通过这篇文章（[Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)）来理解关于RESTful API的。  
 ## 什么是RESTful API设计？

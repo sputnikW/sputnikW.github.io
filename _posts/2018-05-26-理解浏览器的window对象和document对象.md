@@ -1,7 +1,3 @@
----
-layout: posts
-category: front_end
----
 
 ### document对象是什么？
 我觉得要理解document对象，最好从它的使用场景入手，什么情况下我们会需要它？在使用JavaScript的时候，考虑以下几种需求：  

@@ -1,7 +1,4 @@
----
-layout: posts
-category: front_end
----
+
 
 ## JavaScript闭包
 闭包的概念对于接触C家族语言的人来说可能比较陌生，JavaScript之所以有闭包的概念，自然是因为它的一些不同的特性。在解释闭包前，我们需要先来了解一下JavaScript特有的几个特性：  

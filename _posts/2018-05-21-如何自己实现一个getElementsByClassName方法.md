@@ -1,7 +1,4 @@
----
-layout: posts
-category: front_end
----
+
 
 `document.getElementsByClassName()`只有在IE9+的浏览器中才可以使用，所以如果我们想要在之前的IE浏览器版本中使用这个功能，就需要自己去实现，下面就来讨论一下实现过程。
 ***

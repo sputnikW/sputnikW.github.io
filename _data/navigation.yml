@@ -4,7 +4,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "前端整理"
     url: /front_end
-  - title: "About"
+  - title: "关于"
     url: /about
   # - title: "Sample Posts"
   #   url: /year-archive/

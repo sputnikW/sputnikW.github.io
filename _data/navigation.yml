@@ -2,6 +2,8 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "前端整理"
+    url: /front_end
   - title: "About"
     url: /about
   # - title: "Sample Posts"
